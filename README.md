@@ -14,3 +14,7 @@
 - [x] .mp3
 - [x] .wav
 - [ ] .aac
+
+## クレジット
+
+[NuGet] Naudio

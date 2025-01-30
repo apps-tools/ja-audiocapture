@@ -15,7 +15,7 @@
 - [x] .wav
 - [ ] .aac
 
-[!WARNING]
+> [!WARNING]
 > .net framework3.5版では .wavのみ出力可能
 
 ## クレジット

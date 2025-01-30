@@ -6,13 +6,15 @@
 
 安定版 ->[ダウンロードページへ](https://github.com/apps-tools/ja-audiocapture/releases/latest).
 
-##　AudioCaptureについて
+## AudioCaptureについて
+
 > [!WARNING]
 > **このソフトは個人的に作成したソフトなためサポート対象外です**
 >
 > .net framework3.5版は推奨されません
 
 ## 出力
+
 > [!NOTE]
 > .wavと.mp3で出力が可能です
 

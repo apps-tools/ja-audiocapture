@@ -4,9 +4,7 @@
 
 ## ダウンロード
 
-最新の安定版 ->[ダウンロードページへ](https://github.com/apps-tools/ja-audiocapture/releases/latest).
-
-最新版 -> そんなものはない
+安定版 ->[ダウンロードページへ](https://github.com/apps-tools/ja-audiocapture/releases/latest).
 
 ##　AudioCaptureについて
 > [!WARNING]

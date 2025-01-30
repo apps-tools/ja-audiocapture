@@ -1,6 +1,13 @@
 # ja-audiocapture
 オーディオをキャプチャできるソフト
 
+
+## ダウンロード
+
+最新の安定版 ->[ダウンロードページへ](https://github.com/apps-tools/ja-audiocapture/releases/latest).
+
+最新版 -> そんなものはない
+
 > [!WARNING]
 > **このソフトは個人的に作成したソフトなためサポート対象外です**
 >

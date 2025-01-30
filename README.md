@@ -15,6 +15,9 @@
 - [x] .wav
 - [ ] .aac
 
+[!WARNING]
+> .net framework3.5版では .wavのみ出力可能
+
 ## クレジット
 
 [NuGet] Naudio

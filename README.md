@@ -5,6 +5,7 @@
 ## ダウンロード
 
 安定版 ->[ダウンロードページへ](https://github.com/apps-tools/ja-audiocapture/releases/latest).
+
 Preview版はGithubからダウンロード
 
 ## AudioCaptureについて
